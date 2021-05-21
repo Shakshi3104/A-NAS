@@ -1,0 +1,6 @@
+[submodule "hasc"]
+	path = hasc
+	url = https://github.com/Shakshi3104/HAR-competition.git
+[submodule "nas_activity"]
+	path = nas_activity
+	url = https://github.com/Shakshi3104/NASActivity.git
